@@ -15,3 +15,21 @@
     color: #ff9f43;
     border:1px solid #ff9f43;
 }
+.form-control, .form-select {
+  border-width:2px ;
+}
+.form-control:focus, .form-select:valid:focus {
+  box-shadow: none;
+  border: 2px solid #ff9f43;
+}
+.form-check, .form-check{
+  background-color: white;
+
+}
+
+.form-check-input:focus, .form-check-valid:focus {
+  background-color: #ff9f43;
+  border: none;
+  box-shadow:none;
+  color: white;
+}
