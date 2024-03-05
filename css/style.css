@@ -1,11 +1,20 @@
+*{
+  margin: 0;
+  padding: 0;
+}
 .box{
-    height: 730px;
+    height: 710px;
     background-color: white;
+}
+.boxx{
+  height: 630px;
+  background-color: white;
 }
 .btn
 {
      width: 100%;
      background-color: #ff9f43;
+     color: white;
      border: #ff9f43;
      height: 42px;
      transition: 1s ease;
