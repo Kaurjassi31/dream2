@@ -42,3 +42,7 @@
   box-shadow:none;
   color: white;
 }
+.drop{
+  border: none;
+  margin-top: 12px;
+}
