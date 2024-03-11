@@ -58,3 +58,15 @@
   width: 15%;
   border-radius: 23px;
 }
+.plane{
+  height: 40px;
+  width: 10%;
+  border: 1px solid #ff9f43;
+  border-radius: 8px;
+  background-color: #ff9f43;
+}
+.plane:hover{
+  background-color: #fff3e8;
+  border: 1px solid black;
+  border-radius: 8px;
+}
